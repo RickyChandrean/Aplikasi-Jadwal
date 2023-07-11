@@ -1,0 +1,80 @@
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\roslyn\csc.exe
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\roslyn\System.Collections.Immutable.dll
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\roslyn\vbc.exe
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\roslyn\VBCSCompiler.exe
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\roslyn\VBCSCompiler.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\AplikasiJadwal.dll.config
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\AplikasiJadwal.dll
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\AplikasiJadwal.pdb
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\obj\Debug\AplikasiJadwal.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\obj\Debug\AplikasiJadwal.dll
+c:\users\asus\documents\visual studio 2015\Projects\AplikasiJadwal\AplikasiJadwal\obj\Debug\AplikasiJadwal.pdb
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\obj\Debug\AplikasiJadwal.csprojResolveAssemblyReference.cache
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\obj\Debug\AplikasiJadwal.dll
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\obj\Debug\AplikasiJadwal.pdb
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\roslyn\csc.exe
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\roslyn\System.Collections.Immutable.dll
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\roslyn\System.Reflection.Metadata.dll
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\roslyn\vbc.exe
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\roslyn\VBCSCompiler.exe
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\roslyn\VBCSCompiler.exe.config
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\AplikasiJadwal.dll.config
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\AplikasiJadwal.dll
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\AplikasiJadwal.pdb
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Kerja\CCIT\TDS - Video\Materi\AplikasiJadwal Backup15012021_1338\AplikasiJadwal\AplikasiJadwal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\obj\Debug\AplikasiJadwal.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\obj\Debug\AplikasiJadwal.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\roslyn\csc.exe
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\AplikasiJadwal.dll.config
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\AplikasiJadwal.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\AplikasiJadwal.pdb
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\Xceed.Wpf.AvalonDock.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\Xceed.Wpf.Toolkit.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\bin\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\obj\Debug\AplikasiJadwal.csproj.CopyComplete
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\obj\Debug\AplikasiJadwal.dll
+C:\Users\Lenovo\Downloads\New folder (6)\AplikasiJadwal\AplikasiJadwal\obj\Debug\AplikasiJadwal.pdb

@@ -1,0 +1,107 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="AplikasiJadwal.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Aplikasi Jadwal</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link href="Asset/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.css" rel="stylesheet" />
+    <link href="https://cdn.datatables.net/1.10.23/css/dataTables.bootstrap4.min.css" rel="stylesheet" />
+    <link rel="stylesheet" href="Asset/vendor/bootstrap/css/bootstrap.min.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+        function popupCalendar() {
+            var dateField = document.getElementById('dateField');
+
+            // toggle the div
+            if (dateField.style.display == 'none')
+                dateField.style.display = 'block';
+            else
+                dateField.style.display = 'none';
+        }
+
+        function goBack() {
+            window.history.back();
+        }
+
+    </script>
+
+
+</head>
+<body>
+    <form runat="server">
+        <div>
+            <!-- Navigation -->
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+                <div class="container">
+                    <a class="navbar-brand" href="#">Aplikasi Jadwal</a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="collapse navbar-collapse" id="navbarResponsive">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item">
+                                <a class="nav-link" href="Home.aspx">Home
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="Jurusan.aspx">Jurusan</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="MataKuliah.aspx">Mata Kuliah</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="Dosen.aspx">Dosen</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="Jadwal.aspx">Jadwal</a>
+                            </li>
+                            <li class="nav-item dropdown">
+                                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button"
+                                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <asp:Label ID="lblUsername" runat="server" Text="Admin"></asp:Label>
+                                </a>
+                                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                                    <a class="dropdown-item" href="EditPassword.aspx">Ubah Password</a>
+                                    <div class="dropdown-divider"></div>
+                                    <asp:Button ID="btLogout" CssClass="dropdown-item" runat="server" text="Logout" OnClick="btLogout_Click" />
+                                    
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+
+            <!-- Page Content -->
+            <div class="container">
+                <div class="row">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+
+
+            <!-- Bootstrap core JavaScript -->
+            <script src="Asset/vendor/jquery/jquery.slim.min.js"></script>
+            <script src="Asset/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+            <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/dataTables.bootstrap4.min.js"></script>
+            <script src="Asset/vendor/jquery/jquery.min.js" type="text/javascript"></script>
+            <script src="js/jquery.dataTables.min.js" type="text/javascript"></script>
+            <script>
+                $(document).ready(function () {
+                    $('#table').DataTable();
+                });
+            </script>
+        </div>
+    </form>
+</body>
+</html>
